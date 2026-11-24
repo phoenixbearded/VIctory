@@ -1,0 +1,7 @@
+
+
+
+WINEPREFIX=~/.wine-victory WINEDLLOVERRIDES="d3d12,d3d12core,dxgi,d3d11,d3d10core=n" \
+wine target/x86_64-pc-windows-gnullvm/release/victory.exe \
+  run /run/media/nobara-user/BLA-STUFF/GTA6.Xbox.v1.0.2.1-CYBERLEEK/game_scarlett_master.exe --execute
+
